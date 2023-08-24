@@ -6,14 +6,7 @@
             Para finalizar minha compra
 
             Esquema do Cenário: Preecher tela de cadastro
-            Quando eu preencher o campo <nome>
-            E <sobrenome>
-            E <pais>
-            E <endereco>
-            E <cidade>
-            E <cep>
-            E <telefone>
-            E < email>
+            Quando eu preencher todos os campos obrigátorios com asteriscos
             Então o sistema permitirá o cadastro
 
             Exemplos:
